@@ -12,10 +12,9 @@ Map routes to help teach Multiplayer Katam routes. Map is forked from https://is
 
 **P2**   
     Tutorial. Follow P1 to the gate room to help them out, then go to the end of the wheel mix room so the Tutorial can be completed  
-    2. Go ahead in the rainbow route to grab Missile, then wait for P1  
-    3. Once called by P1, go up to make your way to candy Constellation  
-    4. Make your way to Master and Crazy Hands  
-    5. Go right from Rainbow Switch to make your way to Kracko  
-    6. Go right from Deep Carrot switch to grab wheel and Defeat Wiz  
-    7. Go right from the Early Radish door and Defeat Moley  
+    1. Go ahead in the rainbow route to grab Missile, then wait for P1  
+    2. Once called by P1, go up to make your way to Candy Constellation. Then make your way to Master and Crazy Hands  
+    3. Go right from Rainbow Switch to make your way to Kracko  
+    4. Go right from Deep Carrot switch to grab wheel and Defeat Wiz  
+    5. Go right from the Early Radish door and Defeat Moley  
     Finish. Wait at the Early Radish door with stone until P1 is finished  
