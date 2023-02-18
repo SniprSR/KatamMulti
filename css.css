@@ -52,11 +52,20 @@ div {
     margin: 0;
 }
 
+#text2 {
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    left: 160px;
+    bottom: 16px;
+    margin: 0;
+}
+
 button {
     border: none;
-    background-color: slateblue;
+    background-color: pink;
     opacity: 60%;
-    color: white;
     position: fixed;
     width: 112px;
     height: 32px;
@@ -65,6 +74,5 @@ button {
     font-weight: bold;
 }
 button:hover {
-    background-color: slateblue;
     cursor: pointer;
 }

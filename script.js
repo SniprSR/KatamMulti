@@ -1,5 +1,6 @@
 // Show and hide items
 var text = document.getElementById("text");
+var text2 = document.getElementById("text2");
 var img_11 = document.getElementById("I1.1");
 var img_12 = document.getElementById("I1.2");
 var img_13 = document.getElementById("I1.3");
@@ -23,6 +24,7 @@ var btn_25 = document.getElementById("P2.5");
 
 function p11Switch() {
     text.innerHTML = "P1 - Segment 1";
+    text2.innerHTML = "Go towards King Golem, call P2 upon reaching the branching path. Then get Stone, hit switch, and kill King Golem";
     img_11.hidden = false;
     img_12.hidden = true;
     img_13.hidden = true;
@@ -48,6 +50,7 @@ function p11Switch() {
 
 function p12Switch() {
     text.innerHTML = "P1 - Segment 2";
+    text2.innerHTML = "Grab Wheel right from Rainbow Switch, then go down to hit the Early Bottom Cabbage Switch. Go right and make your way to hit both Carrot Switches. Then go right from the Deep Carrot switch to kill Mega Titan";
     img_11.hidden = true;
     img_12.hidden = false;
     img_13.hidden = true;
@@ -73,6 +76,7 @@ function p12Switch() {
 
 function p13Switch() {
     text.innerHTML = "P1 - Segment 3";
+    text2.innerHTML = "Go right from Early Bottom Cabbage down to hit the Early Radish switch. Then make your way to Meta Knight";
     img_11.hidden = true;
     img_12.hidden = true;
     img_13.hidden = false;
@@ -98,6 +102,7 @@ function p13Switch() {
 
 function p14Switch() {
     text.innerHTML = "P1 - Segment 4";
+    text2.innerHTML = "Go left from Early Bottom Cabbage all the way to Gobbler";
     img_11.hidden = true;
     img_12.hidden = true;
     img_13.hidden = true;
@@ -125,6 +130,7 @@ function p14Switch() {
 
 function p21Switch() {
     text.innerHTML = "P2 - Segment 1";
+    text2.innerHTML = "Go ahead in Rainbow Route to grab Missile, then wait for P1";
     img_11.hidden = true;
     img_12.hidden = true;
     img_13.hidden = true;
@@ -150,6 +156,7 @@ function p21Switch() {
 
 function p22Switch() {
     text.innerHTML = "P2 - Segment 2";
+    text2.innerHTML = "Once called by P1, go up to Candy Constellation. Then make your way to Master and Crazy Hands";
     img_11.hidden = true;
     img_12.hidden = true;
     img_13.hidden = true;
@@ -175,6 +182,7 @@ function p22Switch() {
 
 function p23Switch() {
     text.innerHTML = "P2 - Segment 3";
+    text2.innerHTML = "Go right from Rainbow Switch to make your way to Kracko";
     img_11.hidden = true;
     img_12.hidden = true;
     img_13.hidden = true;
@@ -200,6 +208,7 @@ function p23Switch() {
 
 function p24Switch() {
     text.innerHTML = "P2 - Segment 4";
+    text2.innerHTML = "Go right from Deep Carrot switch to grab wheel and Defeat Wiz";
     img_11.hidden = true;
     img_12.hidden = true;
     img_13.hidden = true;
@@ -225,6 +234,7 @@ function p24Switch() {
 
 function p25Switch() {
     text.innerHTML = "P2 - Segment 5";
+    text2.innerHTML = "Go right from the Early Radish door and Defeat Moley";
     img_11.hidden = true;
     img_12.hidden = true;
     img_13.hidden = true;
