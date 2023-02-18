@@ -1,7 +1,7 @@
 # KatamMulti
 Map routes to help teach Multiplayer Katam routes. Map is forked from https://isofrieze.com/katam/
 
-# Notes for each route (TODO: Add this too the actual site)
+# Notes for each route (TODO: Add this to the actual site)
 **P1**  
     Tutorial. Mix Wheel in tutorial
     1. Go towards King Golem, call friends upon reaching the branching path. Then get stone, switch, and kill King Golem  
