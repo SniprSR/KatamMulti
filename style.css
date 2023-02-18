@@ -1,0 +1,111 @@
+body {
+	margin: 0;
+	font-family: "Segoe UI", Arial, sans-serif;
+	background-color: #2A2A2A;
+	color: #D3D3D3;
+}
+
+.topbar {
+	width: 828px;
+	height: 36px;
+	z-index: 1;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 36px;
+	margin: auto;
+	background-color: #39bcc9;
+	color: white;
+}
+
+.toplink, .toplink-right {
+	padding-left: 16px;
+	color: white;
+}
+
+.toplink-right {
+	float: right;
+	margin-right: 16px;
+	padding-left: 0;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.content {
+	margin: 0 auto;
+	padding: 12px 0;
+	width: 828px;
+	background-color: #333333;
+}
+
+p, li {
+	font-size: 18px;
+}
+
+h2 {
+	color: white;
+}
+
+a {
+	color: #39bcc9;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.topbar a:hover {
+	text-decoration: none;
+}
+
+.toplink {
+	color: white;
+}
+
+h2, h3, p, img {
+	padding: 0 16px; margin: 12px 0;
+}
+
+img {
+	width: calc(100% - 32px);
+}
+
+li {
+	padding: 2px 0;
+}
+
+table {
+	width: 100%;
+	padding: 0 12px;
+}
+
+th {
+	background-color: #474747;
+	padding: 3px;
+}
+
+td {
+	background-color: #2A2A2A;
+	padding: 2px 8px;
+	text-align: center;
+}
+
+td a {
+	display: block
+}
+
+.comp {
+	text-align: left;
+}
+
+@media screen and (max-width: 828px) {
+	.content {
+		width: 100%;
+	}
+	
+	.topbar {
+		width: 100%;
+		padding: 0px;
+	}
+}

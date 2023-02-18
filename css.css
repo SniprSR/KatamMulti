@@ -54,12 +54,13 @@ div {
 
 #text2 {
     position: fixed;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     font-size: 16px;
     color: white;
     left: 160px;
-    bottom: 16px;
+    bottom: 23px;
     margin: 0;
+    width: 1613px;
 }
 
 button {
@@ -75,4 +76,12 @@ button {
 }
 button:hover {
     cursor: pointer;
+}
+
+#LinkBtn {
+    display: block;
+    width: 112px;
+    padding: 6px 0;
+    text-decoration: none;
+    color: Black;
 }
